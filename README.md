@@ -3,7 +3,7 @@
 
 # run backend
 
-##activate virtual environment (Windows)
+## activate virtual environment (Windows)
 - .\venv\Scripts\activate
 - uvicorn main:app
 
